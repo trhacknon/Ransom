@@ -103,7 +103,7 @@ class S(BaseHTTPRequestHandler):
             print("DATA HAVE BEEN SAVED")
             print()
 
-def run(server_class=HTTPServer, handler_class=S, addr="localhost", port=8000):
+def run(server_class=HTTPServer, handler_class=S, addr="localhost", port=4444):
     try:
         server_address = (addr, port)
         httpd = server_class(server_address, handler_class)
