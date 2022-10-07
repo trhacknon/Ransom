@@ -1,5 +1,5 @@
 
-<h1 align='center'>Ransom0</h1>
+<h1 align='center'>Ransom</h1>
 
 <p align="center">
  <img src='https://www.codefactor.io/repository/github/hugolb0/ransom0/badge'>
@@ -73,7 +73,7 @@ This Program have been test on:
 
 ## Any donation are welcome
 Donations are welcome, it'll really help me to continue to maintain this project :)
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/1DsjWmS2auGMyxB2vbryjqo7GGCdP7CrbC?showBalance=true)](https://en.cryptobadges.io/donate/1DsjWmS2auGMyxB2vbryjqo7GGCdP7CrbC)
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/?showBalance=true)](https://en.cryptobadges.io/donate/)
 
 
 
@@ -82,4 +82,4 @@ Donations are welcome, it'll really help me to continue to maintain this project
 **I AM NOT RESPONSIBLE FOR ANY DAMAGED CAUSED BY THE ILLEGAL USAGE OF THIS PROGRAM**
 
 ## Stargazers
- [![Stargazers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/stars/HugoLB0/Ransom0)](https://github.com/HugoLB0/Ransom0/stargazers)
+ [![Stargazers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/stars/trhacknon/Ransom0)](https://github.com/trhacknon/Ransom0/stargazers)
